@@ -1,0 +1,41 @@
+html, body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+body
+{
+    font-size: 20px;
+    font-family: monospace;
+    color: #a5c7ff;
+    background-color: black;
+}
+
+blah
+{
+    color: #5c98f9;
+}
+
+.blah
+{
+    color: #20C20E;
+    text-decoration: none;
+}
+.blah:hover
+{
+    color: #5c98f9;5c98f9
+    text-decoration: none;
+}
+
+hack
+{
+    color: #20C20E;
+}
+
+.hack
+{
+    color: #20C20E;
+    text-decoration: none;
+}
