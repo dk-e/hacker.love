@@ -12,4 +12,4 @@ group site - hacker.love
 ####  3. Edit ```index.html``` as needed for your usage.
 
 ## credits
-myself (zurly @initialised)
+myself (zurly @zurlyy)
